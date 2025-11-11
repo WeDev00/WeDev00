@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeDev00&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&custom_title=30-days%20contribution" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeDev00&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&custom_title=30-days%20contributions" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
