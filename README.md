@@ -48,12 +48,20 @@
 ###
 
 <div align="left">
+  <a href="mailto:marcop.dev00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeDev00&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&custom_title=30-days%20contributions" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeDev00&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&custom_title=30-days%20contribution" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
